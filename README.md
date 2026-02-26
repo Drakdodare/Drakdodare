@@ -29,19 +29,13 @@
 
 I do security research because I don’t like mystery meat software. I like systems that are understandable, inspectable, and predictable — and most modern software is *none* of those things. When something ships with a dozen background services, a telemetry pipeline, and a “helper” that phones home, that’s not convenience. That’s extra attack surface and an extra layer of permission you didn’t explicitly grant.
 
-So I take things apart.
-
-Sometimes that looks like reverse engineering an installer to see what it *actually* changes. Sometimes it’s tracing network traffic that shouldn’t exist. Sometimes it’s mapping persistence mechanisms, scheduled tasks, services, drivers, and “friendly” updaters that behave like they own the machine. The pattern is consistent: the user is treated like a passenger in their own system. My work is mostly about fixing that relationship.
-
-My bias is simple: if software is going to run on your machine, it should earn its place.
+So I take things apart. Sometimes that looks like reverse engineering an installer to see what it *actually* changes. Sometimes it’s tracing network traffic that shouldn’t exist. Sometimes it’s mapping persistence mechanisms, scheduled tasks, services, drivers, and “friendly” updaters that behave like they own the machine. The pattern is consistent: the user is treated like a passenger in their own system. My work is mostly about fixing that relationship.
 
 ----
 
 ## #StopKillingGames
 
 I’m also loud about digital ownership because the current direction is bad for everyone except the people who get paid when things disappear. Selling a product and treating it like a revocable license is dishonest, and normalizing “you own nothing” is a slow-motion disaster. People deserve clarity about what they’re buying and a future where purchased games aren’t quietly turned off like a subscription that nobody agreed to.
-
-Digital ownership should mean something — or at the very least, the label should be honest when it doesn’t.
 
 ---
 
