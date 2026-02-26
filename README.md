@@ -41,11 +41,6 @@ I’m now a maintainer for the Linux kernel. That work is equal parts discipline
 
 The same theme runs through everything I build and publish here: reduce friction, remove nonsense, and make software behave.
 
-## Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,powershell,python,c,cpp,rust,go,js,ts,lua,perl,html,css,sql,yaml,json&perline=16" />
-</p>
-
 ## Distros I Use
 <p align="center">
   <img height="42" src="https://cdn.simpleicons.org/linux/FCC624" />
