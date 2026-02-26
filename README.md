@@ -14,12 +14,6 @@
     I’m <b>Drakdodare</b> — and I do security research. I also have a habit of taking software apart, cutting the bloatware garbage, and putting it back together the way it should’ve been shipped, weather its Google's awful pixel devices and forcing GrapheneOS or LineageOS onto them, debloating the absolute shitshow that is Windows 11 or just creating my own versions of popular apps and debloating them.
   </p>
 
-  <p>
-    <b>Mission:</b> reduce friction, remove nonsense, and make software behave.  
-    <br/>
-    <b>Side quest:</b> <code>#StopKillingGames</code> — digital ownership should mean something.
-  </p>
-
 ## Background
 
 I’m a former Microsoft engineer who worked a little bit on Windows and a former Google Web Administrator whom made sure google.com was always running. Those roles gave me a close look at what “software at scale” really means: messy environments, long tails of edge cases, and the way defaults quietly become policy for millions of machines. It also taught me to value boring outcomes — systems that are understandable, observable, and hard to accidentally break.
