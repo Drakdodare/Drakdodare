@@ -11,7 +11,7 @@
   <h3>🛡️ Security Researcher • 🐧 Linux Nerd • ⚙️ Automation Addict</h3>
 
   <p>
-    I’m <b>Drakdodare</b> — and I do security research. I also have a habit of taking software apart, cutting the bloatware garbage, and putting it back together the way it should’ve been shipped. If I touch a Windows setup, it’s going to end up cleaner, faster, and more yours.
+    I’m <b>Drakdodare</b> — and I do security research. I also have a habit of taking software apart, cutting the bloatware garbage, and putting it back together the way it should’ve been shipped, weather its Google's awful pixel devices and forcing GrapheneOS or LineageOS onto them, debloating the absolute shitshow that is Windows 11 or just creating my own versions of popular apps and debloating them.
   </p>
 
   <p>
