@@ -23,21 +23,21 @@
     <b>Side quest:</b> <code>#StopKillingGames</code> — digital ownership should mean something.
   </p>
 
- ---
-
 ## What I do (and why)
 
 I do security research because I don’t like mystery meat software. I like systems that are understandable, inspectable, and predictable — and most modern software is *none* of those things. When something ships with a dozen background services, a telemetry pipeline, and a “helper” that phones home, that’s not convenience. That’s extra attack surface and an extra layer of permission you didn’t explicitly grant.
 
 So I take things apart. Sometimes that looks like reverse engineering an installer to see what it *actually* changes. Sometimes it’s tracing network traffic that shouldn’t exist. Sometimes it’s mapping persistence mechanisms, scheduled tasks, services, drivers, and “friendly” updaters that behave like they own the machine. The pattern is consistent: the user is treated like a passenger in their own system. My work is mostly about fixing that relationship.
 
-----
-
 ## #StopKillingGames
 
 I’m also loud about digital ownership because the current direction is bad for everyone except the people who get paid when things disappear. Selling a product and treating it like a revocable license is dishonest, and normalizing “you own nothing” is a slow-motion disaster. People deserve clarity about what they’re buying and a future where purchased games aren’t quietly turned off like a subscription that nobody agreed to.
 
----
+## Background
+
+I’m a former Microsoft employee, where I worked close to the realities of shipping and supporting software at scale. These days I’m at Google working as a Web Administrator, focused on reliability, automation, and keeping systems predictable under real-world constraints.
+
+That “big systems” experience feeds directly into what I build and publish here: security research, practical hardening, and tools that reduce friction without turning machines into fragile science projects.
 
 ## Languages
 <p>
