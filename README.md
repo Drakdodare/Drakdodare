@@ -14,7 +14,7 @@
   <h3>🛡️ Security Researcher • 🐧 Linux Builder • ⚙️ Automation Addict</h3>
 
   <p>
-    I’m <b>Drakdodare</b> — and I do security research. I also have a habit of taking software apart, cutting the bloat and bloatware garbage, and putting it back together the way it should’ve been shipped. If I touch a Windows setup, it’s going to end up cleaner, faster, and more yours.
+    I’m <b>Drakdodare</b> — and I do security research. I also have a habit of taking software apart, cutting the bloatware garbage, and putting it back together the way it should’ve been shipped. If I touch a Windows setup, it’s going to end up cleaner, faster, and more yours.
   </p>
 
   <p>
