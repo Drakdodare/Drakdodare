@@ -35,23 +35,32 @@ I’m also loud about digital ownership because the current direction is bad for
 
 ## Background
 
-I’m a former Microsoft employee, where I worked close to the realities of shipping and supporting software at scale. These days I’m at Google working as a Web Administrator, focused on reliability, automation, and keeping systems predictable under real-world constraints.
+I’m former Microsoft and former Google. Those roles gave me a close look at what “software at scale” really means: messy environments, long tails of edge cases, and the way defaults quietly become policy for millions of machines. It also taught me to value boring outcomes — systems that are understandable, observable, and hard to accidentally break.
 
-That “big systems” experience feeds directly into what I build and publish here: security research, practical hardening, and tools that reduce friction without turning machines into fragile science projects.
+I’m now a maintainer for the Linux kernel. That work is equal parts discipline and restraint: patches need to be correct, reviewable, and worth the long-term cost of carrying them. The goal isn’t novelty — it’s stability, security, and changes that hold up under real-world pressure.
+
+The same theme runs through everything I build and publish here: reduce friction, remove nonsense, and make software behave.
 
 ## Languages
-<p>
-  <img height="34" src="https://skillicons.dev/icons?i=bash,powershell,python,c,cpp,rust,go,js,ts" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,powershell,python,c,cpp,rust,go,js,ts,lua,perl,html,css,sql,yaml,json&perline=16" />
 </p>
 
-## Platforms
-<p>
-  <img height="34" src="https://skillicons.dev/icons?i=linux,windows" />
+## Distros I Use
+<p align="center">
+  <img height="42" src="https://cdn.simpleicons.org/linux/FCC624" />
+  <img height="42" src="https://cdn.simpleicons.org/archlinux/1793D1" />
+  <img height="42" src="https://cdn.simpleicons.org/debian/A81D33" />
+  <img height="42" src="https://cdn.simpleicons.org/ubuntu/E95420" />
+  <img height="42" src="https://cdn.simpleicons.org/fedora/51A2DA" />
+  <img height="42" src="https://cdn.simpleicons.org/opensuse/73BA25" />
+  <img height="42" src="https://cdn.simpleicons.org/gentoo/54487A" />
+  <img height="42" src="https://cdn.simpleicons.org/linuxmint/5277C3" />
 </p>
 
 ## Dev / Ops
-<p>
-  <img height="34" src="https://skillicons.dev/icons?i=git,github,githubactions,docker,ansible,terraform,nginx,postgres,mysql,sqlite,redis" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,terraform,ansible,nginx,prometheus,grafana&perline=12" />
 </p>
 
 ## Editors
