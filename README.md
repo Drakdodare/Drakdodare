@@ -38,8 +38,6 @@
 
 ## 🧪 De-enshittification Lab
 
-The kind of work I often do (and genuinely enjoy):
-
 - **Debloating:** remove junk services, unnecessary daemons, and noisy background tasks  
 - **Privacy hardening:** turning off “opt-out” behavior, trimming telemetry, reducing data exhaust  
 - **UX repair:** replacing hostile defaults, restoring lost power-user workflows  
