@@ -14,9 +14,7 @@
   <h3>🛡️ Security Researcher • 🐧 Linux Builder • ⚙️ Automation Addict</h3>
 
   <p>
-    I’m <b>Drakdodare</b> — a Swedish security researcher living in Japan, building tools and systems that stay fast, clean,
-    and user-owned. I spend my time reversing complexity into clarity, stripping out dark patterns, and shipping Linux
-    setups that feel like they were designed by someone who actually uses them.
+    I’m <b>Drakdodare</b> — and I do security research. I also have a habit of taking software apart, cutting the bloat and bloatware garbage, and putting it back together the way it should’ve been shipped. If I touch a Windows setup, it’s going to end up cleaner, faster, and more yours.
   </p>
 
   <p>
@@ -54,55 +52,3 @@ If you also believe software should be:
 - and **quiet** by default
 
 …we’ll get along.
-
----
-
-## 🧰 Toolbelt
-
-I work across a lot of tools and languages — not as a checklist, but because different problems deserve different instruments.
-
-### Core domains
-- Vulnerability research / exploit surface mapping
-- Reverse engineering & binary analysis
-- Linux systems, hardening, and performance tuning
-- Automation & developer tooling
-
-<details>
-<summary><b>🔧 Languages & Scripting</b></summary>
-
-- Bash / POSIX shell
-- Python
-- JavaScript / TypeScript
-- C / C++ (as needed)
-- 
-</details>
-
-<details>
-<summary><b>🕵️ Security & Analysis</b></summary>
-
-- static + dynamic analysis workflows
-- fuzzing (targeted + opportunistic)
-- sandboxing / isolation approaches
-- network inspection & protocol spelunking
-
-</details>
-
-<details>
-<summary><b>🐧 Linux & Ops</b></summary>
-
-- systemd/service hygiene
-- packaging/build pipelines
-- dotfiles + configuration management
-- containers/virtualization (as relevant)
-- reproducible setups
-
-</details>
-
----
-
-## 📌 Philosophy
-
-- **Defaults matter.** Most people live in defaults.
-- **If it’s not inspectable, it’s not trustworthy.**
-- **Convenience shouldn’t require surrendering control.**
-- **Ownership should outlast corporate moods.** (`#StopKillingGames`)
