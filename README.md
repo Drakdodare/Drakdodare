@@ -43,7 +43,6 @@ The same theme runs through everything I build and publish here: reduce friction
 
 ## Distros I Use
 <p align="center">
-  <img height="42" src="https://cdn.simpleicons.org/linux/FCC624" />
   <img height="42" src="https://cdn.simpleicons.org/archlinux/1793D1" />
   <img height="42" src="https://cdn.simpleicons.org/debian/A81D33" />
   <img height="42" src="https://cdn.simpleicons.org/ubuntu/E95420" />
