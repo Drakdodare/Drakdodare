@@ -35,7 +35,7 @@ I’m also loud about digital ownership because the current direction is bad for
 
 ## Background
 
-I’m former Microsoft and former Google. Those roles gave me a close look at what “software at scale” really means: messy environments, long tails of edge cases, and the way defaults quietly become policy for millions of machines. It also taught me to value boring outcomes — systems that are understandable, observable, and hard to accidentally break.
+I’m a former Microsoft engineer who worked a little bit on Windows and a former Google Web Administrator whom made sure google.com was always running. Those roles gave me a close look at what “software at scale” really means: messy environments, long tails of edge cases, and the way defaults quietly become policy for millions of machines. It also taught me to value boring outcomes — systems that are understandable, observable, and hard to accidentally break.
 
 I’m now a maintainer for the Linux kernel. That work is equal parts discipline and restraint: patches need to be correct, reviewable, and worth the long-term cost of carrying them. The goal isn’t novelty — it’s stability, security, and changes that hold up under real-world pressure.
 
