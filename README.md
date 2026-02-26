@@ -1,8 +1,7 @@
 <h1 align="center">Drakdodare</h1>
 
 <p align="center">
-  <b>Former Google Web Administrator</b> • <b>Azure DevOps</b> • <b>Full-Stack Developer</b><br/>
-  <b>Security Researcher (Defensive + Authorized Offensive)</b> • <b>Creator of Shibui Linux</b>
+  <b>Security Researcher • #StopKillingGames • <b>Creator of Shibui Linux</b>
 </p>
 
 <p align="center">
