@@ -22,31 +22,45 @@
     <br/>
     <b>Side quest:</b> <code>#StopKillingGames</code> — digital ownership should mean something.
   </p>
-  
+
+ ---
+
+## What I do (and why)
+
+I do security research because I don’t like mystery meat software. I like systems that are understandable, inspectable, and predictable — and most modern software is *none* of those things. When something ships with a dozen background services, a telemetry pipeline, and a “helper” that phones home, that’s not convenience. That’s extra attack surface and an extra layer of permission you didn’t explicitly grant.
+
+So I take things apart.
+
+Sometimes that looks like reverse engineering an installer to see what it *actually* changes. Sometimes it’s tracing network traffic that shouldn’t exist. Sometimes it’s mapping persistence mechanisms, scheduled tasks, services, drivers, and “friendly” updaters that behave like they own the machine. The pattern is consistent: the user is treated like a passenger in their own system. My work is mostly about fixing that relationship.
+
+My bias is simple: if software is going to run on your machine, it should earn its place.
+
+----
+
+## #StopKillingGames
+
+I’m also loud about digital ownership because the current direction is bad for everyone except the people who get paid when things disappear. Selling a product and treating it like a revocable license is dishonest, and normalizing “you own nothing” is a slow-motion disaster. People deserve clarity about what they’re buying and a future where purchased games aren’t quietly turned off like a subscription that nobody agreed to.
+
+Digital ownership should mean something — or at the very least, the label should be honest when it doesn’t.
+
 ---
 
-## ✨ What I Do (and why it’s fun)
+## Languages
+<p>
+  <img height="34" src="https://skillicons.dev/icons?i=bash,powershell,python,c,cpp,rust,go,js,ts" />
+</p>
 
-- **Security research** with a builder’s mindset: I like findings that end in *fixes*, hardening, and better defaults.
-- **Linux customization** that feels intentional: speed, ergonomics, sane configs, clean UX.
-- **Automation everywhere**: if I do it twice, it becomes a script. If I do it three times, it becomes a tool.
-- **“De-enshittification”** work: removing bloat, telemetry-by-default patterns, hostile UX, and “surprise dependencies.”
+## Platforms
+<p>
+  <img height="34" src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 
-> I like software that’s *predictable*, *auditable*, and *respects the user*.
+## Dev / Ops
+<p>
+  <img height="34" src="https://skillicons.dev/icons?i=git,github,githubactions,docker,ansible,terraform,nginx,postgres,mysql,sqlite,redis" />
+</p>
 
----
-
-## 🧪 De-enshittification Lab
-
-- **Debloating:** remove junk services, unnecessary daemons, and noisy background tasks  
-- **Privacy hardening:** turning off “opt-out” behavior, trimming telemetry, reducing data exhaust  
-- **UX repair:** replacing hostile defaults, restoring lost power-user workflows  
-- **Dependency dieting:** fewer moving parts, fewer update surprises, fewer supply-chain headaches  
-- **Automation:** bootstrap scripts, dotfile orchestration, CI sanity checks, reproducible setups
-
-If you also believe software should be:
-- **owned** by the user
-- **understood** by the user
-- and **quiet** by default
-
-…we’ll get along.
+## Editors
+<p>
+  <img height="34" src="https://skillicons.dev/icons?i=vim,neovim,vscode" />
+</p>
