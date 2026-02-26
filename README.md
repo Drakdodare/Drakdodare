@@ -2,13 +2,12 @@
 
   <!-- Wavy neon header -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Drakdodare&fontSize=62&fontAlignY=38&desc=Security%20Researcher%20%E2%80%A2%20Creator%20of%20Shibui%20Linux%20%E2%80%A2%20%23StopKillingGames&descAlignY=62&animation=fadeIn&color=0:00F5FF,50:8A2BE2,100:FF2BD6"
-    alt="Drakdodare header"
-  />
+  src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Drakdodare&fontSize=64&fontAlignY=40&desc=%F0%9F%9B%A1%EF%B8%8F%20Security%20Researcher%20%E2%80%A2%20%F0%9F%90%A7%20Creator%20of%20Shibui%20Linux%20%E2%80%A2%20%E2%9A%99%EF%B8%8F%20Automation%20Addict&descAlignY=65&descSize=18&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364&fontColor=FFFFFF"
+  alt="Drakdodare header"
+/>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Kernel%20Maintainer-black?style=for-the-badge&logo=linux" />
 </p>
-  <h3>🛡️ Security Researcher • 🐧 Linux Nerd • ⚙️ Automation Addict</h3>
 
   <p>
     I’m <b>Drakdodare</b> — and I do security research. I also have a habit of taking software apart, cutting the bloatware garbage, and putting it back together the way it should’ve been shipped, weather its Google's awful pixel devices and forcing GrapheneOS or LineageOS onto them, debloating the absolute shitshow that is Windows 11 or just creating my own versions of popular apps and debloating them.
