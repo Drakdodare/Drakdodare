@@ -24,7 +24,7 @@
 
 I’m a former Microsoft engineer who worked a little bit on Windows and a former Google Web Administrator whom made sure google.com was always running. Those roles gave me a close look at what “software at scale” really means: messy environments, long tails of edge cases, and the way defaults quietly become policy for millions of machines. It also taught me to value boring outcomes — systems that are understandable, observable, and hard to accidentally break.
 
-## What I do (and why)
+## What I do
 
 I do security research because I don’t like mystery meat software. I like systems that are understandable, inspectable, and predictable — and most modern software is *none* of those things. When something ships with a dozen background services, a telemetry pipeline, and a “helper” that phones home, that’s not convenience. That’s extra attack surface and an extra layer of permission you didn’t explicitly grant.
 
